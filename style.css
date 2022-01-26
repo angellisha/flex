@@ -1,0 +1,193 @@
+body {
+    background-color: black;
+}
+
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+
+    width: 500px;
+    height: 500px;
+
+    margin: auto;
+    margin-top: 110px;
+
+    background-color: white;
+    padding: 5px;
+}
+
+.flex-item {
+    background-color: rgb(59, 59, 253);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    margin-left: 17px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item1 {
+    background-color: rgb(255, 0, 0);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item2 {
+    background-color: yellow;
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+    margin-right: 17px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item3 {
+    background-color: rgb(255, 0, 234);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item4 {
+    background-color: rgb(68, 52, 52);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item5 {
+    background-color: rgb(0, 204, 255);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item6 {
+    background-color: rgb(255, 153, 0);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item7 {
+    background-color: rgb(123, 255, 0);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item8 {
+    background-color: rgb(46, 117, 13);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item9 {
+    background-color: rgb(128, 128, 128);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item10 {
+    background-color: rgb(162, 0, 255);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item11 {
+    background-color: rgb(0, 255, 242);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item12 {
+    background-color: rgb(252, 223, 203);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+.flex-item13 {
+    background-color: rgb(8, 37, 103);
+
+    width: 115px;
+    height: 115px;
+
+    margin: 2px;
+
+    text-align: center;
+    line-height: 100px;
+}
+
+
